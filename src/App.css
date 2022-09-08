@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+
+span{
+  border: 2px solid rgb(96, 96, 96);
+  background-color: rgb(236, 242, 243);
+  padding: 10px 15px;
+  border-radius: 5px;
+}
